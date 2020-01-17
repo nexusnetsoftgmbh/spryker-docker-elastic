@@ -1,4 +1,4 @@
-FROM elasticsearch:6.8.4
+FROM elasticsearch:5.6
 
 ENV NODE_OPTIONS=--max_old_space_size=4096
 
